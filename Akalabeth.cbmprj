@@ -45,7 +45,7 @@
         <PostBuildCommands />
     </BuildEvents>
     <BuildList>
-        <FileName>akalabeth.bas</FileName>
+        <FileName>akalabeth128.bas</FileName>
     </BuildList>
     <DetermineBuildOrder>0</DetermineBuildOrder>
     <PaddingByte>0</PaddingByte>
@@ -56,14 +56,14 @@
     <!--End of screen designer settings-->
     <SourceFiles>
         <SourceFile>
-            <Name>akalabeth.bas</Name>
+            <Name>akalabeth128.bas</Name>
             <PrgName />
             <FileType>1</FileType>
             <IncludeInBuild>True</IncludeInBuild>
             <Regions />
             <Breakpoints />
             <Bookmarks />
-            <Topmost>False</Topmost>
+            <Topmost>True</Topmost>
             <FileOpen>True</FileOpen>
         </SourceFile>
     </SourceFiles>
