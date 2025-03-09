@@ -36,7 +36,7 @@ Controls had to be remapped due to the different keyboard layout:
   - Fixed a bug that prevented some doors being drawn in dungeons.
   - Fixed a bug that didn't show the dialogue in Lord British's castle correctly.
 - v1.2 (fixes by Wil)
-  - removed spaces in lines 384-386 since they caused the line length too exceed maximum length, leading to a system hang after loading the file with LOAD or DLOAD (BLOAD worked though)
+  - removed spaces in lines 384-386 since they caused the line length to exceed maximum length, leading to a system hang after loading the file with LOAD or DLOAD (BLOAD worked though)
   - added missing PRINT in line 6030
   - changed lines 1700-1720 to wait for input before clearing the screen when viewing stats
   
